@@ -1,5 +1,4 @@
-# version 2.9
-# Feature Crack
+# Feature Crack ######## v2.9
 •  Crack from friends
 
 •  Crack from publik
@@ -9,32 +8,28 @@
 •  Crack from like post
 
 # Installation
-➾ pkg update && pkg upgrade
+$ pkg update && pkg upgrade
 
-➾ pkg install python2 git
+$ pkg install python2 git
 
-➾ pip2 install requests mechanize
+$ pip2 install requests mechanize
 
-➾ pip2 install futures bs4
+$ pip2 install futures bs4
 
-➾ rm -rf Crack
+$ rm -rf Crack
 
-➾ git clone https://github.com/AngCyber/Crack
+$ git clone https://github.com/AngCyber/Crack
 
 # Runn
-➾ cd Crack
+$ cd Crack
 
-➾ ls
+$ ls
 
-➾ git pull
+$ git pull
 
-➾ python2 Multi_BF.py
+$ python2 Multi_BF.py
 
-# Sosial media
-WhatsApp: 089524163441
-
-Facebook: Saya Aang
-
-Twitter : MyAldousXD
-
-YouTube : Aang-XD
+### Donation
+##### Dana  : 083806858479
+##### Pulsa : 081392959718
+##### Thank you for your support
