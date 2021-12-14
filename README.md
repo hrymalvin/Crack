@@ -32,5 +32,5 @@ $ python2 Multi_BF.py
 
 ## Donation
 ##### Dana  : 083806858479
-##### Pulsa : 081392959718
+##### Pulsa : 081392979518
 ##### Thank you for your support
