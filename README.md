@@ -1,5 +1,5 @@
-###### Version 2.9
-# Feature Crack
+### Version 2.9
+## Feature Crack
 •  Crack from friends
 
 •  Crack from publik
@@ -8,7 +8,7 @@
 
 •  Crack from like post
 
-# Installation
+## Installation
 $ pkg update && pkg upgrade
 
 $ pkg install python2 git
@@ -21,7 +21,7 @@ $ rm -rf Crack
 
 $ git clone https://github.com/AngCyber/Crack
 
-# Runn
+## Runn
 $ cd Crack
 
 $ ls
@@ -30,7 +30,7 @@ $ git pull
 
 $ python2 Multi_BF.py
 
-### Donation
+## Donation
 ##### Dana  : 083806858479
 ##### Pulsa : 081392959718
 ##### Thank you for your support
