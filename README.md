@@ -1,6 +1,8 @@
-## Lo Goblok
+## Screenshot
 ![IMG_20211223_072833](https://user-images.githubusercontent.com/92802033/147174546-f6cd1fc3-6856-444a-bf13-218c0eb34141.jpg)
 
+## Results
+![Screenshot_2021-12-20-06-45-41-66](https://user-images.githubusercontent.com/92802033/147174748-570e18af-3a23-4cf5-affe-d5776f5bfa0d.jpg)
 
 ## Installation
 $ pkg update && pkg upgrade
@@ -25,4 +27,3 @@ $ python2 Multi_BF.py
 ##### Dana  : 083806858479
 ##### Pulsa : 081392979518
 ##### Thank you for your support
-![Screenshot_2021-12-20-06-45-41-66](https://user-images.githubusercontent.com/92802033/147174748-570e18af-3a23-4cf5-affe-d5776f5bfa0d.jpg)
