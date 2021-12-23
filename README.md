@@ -1,12 +1,4 @@
-### Version 3.1
-## Feature Crack
-•  Crack from friends
-
-•  Crack from publik
-
-•  Crack from followers
-
-•  Crack from like post
+# Lo Goblok
 
 ## Installation
 $ pkg update && pkg upgrade
