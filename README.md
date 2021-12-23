@@ -1,4 +1,5 @@
-# Lo Goblok
+![IMG_20211223_072833](https://user-images.githubusercontent.com/92802033/147174546-f6cd1fc3-6856-444a-bf13-218c0eb34141.jpg)
+
 
 ## Installation
 $ pkg update && pkg upgrade
