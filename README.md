@@ -26,6 +26,8 @@
 
 `• Pulsa : 081392979518`
 ## Contact Me
-` WhatsApp : 089524163441`
-` Facebook : Aang.XD404
-` Youtube : Aang-XD`
+` • WhatsApp : 089524163441`
+
+` • Youtube : Aang-XD`
+
+` • Facebook : Aang.XD404`
