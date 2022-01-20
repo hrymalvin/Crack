@@ -5,25 +5,23 @@
 ![Screenshot_2021-12-20-06-45-41-66](https://user-images.githubusercontent.com/92802033/147174748-570e18af-3a23-4cf5-affe-d5776f5bfa0d.jpg)
 
 ## Installation
-$ pkg update && pkg upgrade
+- [ ] pkg update && pkg upgrade
 
-$ pkg install python2 git
+- [ ] pkg install python2 git
 
-$ pip2 install requests mechanize
+- [ ] pip2 install requests mechanize
 
-$ pip2 install futures bs4
+- [ ] pip2 install futures bs4
 
-$ rm -rf Crack
+- [ ] git clone https://github.com/AngCyer/Face-Crack
 
-$ git clone https://github.com/AngCyber/Crack
+- [ ]  cd Crack
 
-$ cd Crack
+- [ ]  ls
 
-$ ls
+- [ ] python2 Multi_BF.py
 
-$ python2 Multi_BF.py
-
-## Donation
-##### Dana  : 083806858479
-##### Pulsa : 081392979518
+## Donasi
+`• Dana  : 083806858479`
+`• Pulsa : 081392979518`
 ##### Thank you for your support
