@@ -13,7 +13,7 @@
 
 - [ ] pip2 install futures bs4
 
-- [ ] git clone https://github.com/AngCyer/Face-Crack
+- [ ] git clone https://github.com/AngCyber/Crack
 
 - [ ]  cd Crack
 
