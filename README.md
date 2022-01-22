@@ -3,33 +3,31 @@
 
 
 ### Installation
-- [ ] pkg update && pkg upgrade
+- [ ] `pkg update && pkg upgrade`
 
-- [ ] pkg install python2 git
+- [ ] `pkg install python2 git`
 
-- [ ] pip2 install requests mechanize
+- [ ] `pip2 install requests mechanize`
 
-- [ ] pip2 install futures bs4
+- [ ] `pip2 install futures bs4`
 
-- [ ] git clone https://github.com/AngCyber/Crack
+- [ ] `git clone https://github.com/AngCyber/Crack`
 
-- [ ]  cd Crack
+- [ ] `cd Crack`
 
-- [ ]  ls
+- [ ] `ls`  [(Huruf "L" Kecil)]()
 
-- [ ] python2 Multi_BF.py
+- [ ] `python2 Multi_BF.py`
 
 ### Results/Hasil
 ![Screenshot_2022-01-23-01-30-43-06](https://user-images.githubusercontent.com/92802033/150651735-1715a932-060f-4d47-9407-65a8bc2a5ca2.jpg)
 
 
 ### Donasi
-`• Dana  : 083806858479`
+- Dana  : [083806858479]()
+- Pulsa : [081392979518]()
 
-`• Pulsa : 081392979518`
 ### Contact Me
-` • WhatsApp : 089524163441`
-
-` • Youtube : Aang-XD`
-
-` • Facebook : Aang.XD404`
+- WhatsApp : [089524163441]()
+- Youtube : [Aang-XD]()
+- Facebook : [Aang.XD404]()
