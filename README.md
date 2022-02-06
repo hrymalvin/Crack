@@ -1,6 +1,7 @@
 ### Menu & Fitur Crack
 ![IMG_20220123_015205](https://user-images.githubusercontent.com/92802033/150651709-758ecee7-0d28-42f4-86cd-b6cb12762e30.jpg)
 
+![python-logo-1](https://user-images.githubusercontent.com/92802033/152686489-629c3bd0-0aef-4c9f-8bd6-b4bd2a925ce6.gif)
 
 ### Installation
 - [ ] `pkg update && pkg upgrade`
