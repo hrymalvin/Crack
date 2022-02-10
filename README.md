@@ -4,21 +4,23 @@
 ![python-logo-1](https://user-images.githubusercontent.com/92802033/152686489-629c3bd0-0aef-4c9f-8bd6-b4bd2a925ce6.gif)
 
 ### Installation
-- [ ] `pkg update && pkg upgrade`
+- [ ] pkg update [&&]() pkg upgrade
 
-- [ ] `pkg install python2 git`
+- [ ] pkg install python2 git
 
-- [ ] `pip2 install requests mechanize`
+- [ ] pip2 install requests mechanize
 
-- [ ] `pip2 install futures bs4`
+- [ ] pip2 install futures bs4
 
-- [ ] `git clone https://github.com/AngCyber/Crack`
+- [ ] git clone https://github.com/AngCyber/Crack
 
-- [ ] `cd Crack`
+- [ ] cd Crack
 
-- [ ] `ls`  [(Huruf "L" Kecil)]()
+- [ ] ls  [(Huruf "L" Kecil)]()
 
-- [ ] `python2 Multi_BF.py`
+- [ ] git pull 
+
+- [ ] python2 Multi_BF.py
 
 ### Results/Hasil
 ![Screenshot_2022-01-23-01-30-43-06](https://user-images.githubusercontent.com/92802033/150651735-1715a932-060f-4d47-9407-65a8bc2a5ca2.jpg)
