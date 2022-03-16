@@ -10,7 +10,7 @@
 
 - [ ] pip2 install futures bs4
 
-- [ ] git clone https://github.com/hrymalvin/Crack/
+- [ ] git clone 
 
 - [ ] cd Crack
 
